@@ -1,0 +1,24 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.row div{
+  margin: .25rem;
+}
+
+.col-sm{
+  background-color:aquamarine ;
+}
+
+.col-md{
+  background-color: beige;
+}
+
+.col-lg{
+  background-color: burlywood;
+}
+
+.col-xl{
+  background-color: cadetblue;
+}
